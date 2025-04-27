@@ -1,8 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
 body {
   margin: 0;
   font-family: "Segoe UI", sans-serif;
   background: url("images/health-bg.jpg") no-repeat center center fixed;
   background-size: cover;
+  font-family: Raleway, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   color: #fff;
 }
 
