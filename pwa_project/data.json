@@ -1,0 +1,71 @@
+{
+    "topics": [
+        {
+            "id": "rainforest",
+            "title": "Rainforest Conservation",
+            "description": "Rainforests are Earth's oldest living ecosystems, home to more than half of the world's plant and animal species. Learn how deforestation threatens these vital ecosystems and what we can do to protect them.",
+            "image": "images/rainforest.jpg",
+            "audio": "sounds/rainforest.mp3",
+            "quiz": [
+                {
+                    "question": "What percentage of the world's species live in rainforests?",
+                    "options": ["About 25%", "More than 50%", "Less than 10%"],
+                    "answer": 1
+                },
+                {
+                    "question": "How much of the original rainforest cover has been destroyed?",
+                    "options": ["About 20%", "About 50%", "More than 80%"],
+                    "answer": 1
+                }
+            ]
+        },
+        {
+            "id": "ocean",
+            "title": "Ocean Protection",
+            "description": "Oceans cover 71% of our planet and are vital to all life on Earth. Discover the impacts of plastic pollution, overfishing, and climate change on marine ecosystems and how we can help preserve them.",
+            "image": "images/ocean.jpg",
+            "audio": "sounds/ocean.mp3",
+            "quiz": [
+                {
+                    "question": "How much of the ocean is currently protected?",
+                    "options": ["Less than 8%", "About 25%", "More than 50%"],
+                    "answer": 0
+                }
+            ]
+        },
+        {
+            "id": "recycling",
+            "title": "Recycling & Waste Reduction",
+            "description": "Proper waste management is crucial for reducing pollution and conserving resources. Learn about recycling processes, composting, and how to minimize your environmental footprint through conscious consumption.",
+            "image": "images/recycling.jpg",
+            "quiz": [
+                {
+                    "question": "What percentage of plastic waste is actually recycled globally?",
+                    "options": ["About 9%", "About 25%", "About 50%"],
+                    "answer": 0
+                }
+            ]
+        },
+        {
+            "id": "climate",
+            "title": "Climate Change",
+            "description": "Climate change is the defining issue of our time. Understand its causes, effects on weather patterns, ecosystems, and human societies, and explore solutions to mitigate its impact.",
+            "image": "images/climate.jpg",
+            "audio": "sounds/climate.mp3"
+        },
+        {
+            "id": "energy",
+            "title": "Renewable Energy",
+            "description": "Transitioning to renewable energy sources is key to reducing greenhouse gas emissions. Learn about solar, wind, hydro, and other clean energy technologies shaping our sustainable future.",
+            "image": "images/energy.jpg",
+            "audio": "sounds/energy.mp3"
+        },
+        {
+            "id": "wildlife",
+            "title": "Wildlife Conservation",
+            "description": "Biodiversity is essential for healthy ecosystems. Discover the threats facing endangered species, conservation success stories, and how you can contribute to protecting wildlife.",
+            "image": "images/wildlife.jpg",
+            "audio": "sounds/wildlife.mp3"
+        }
+    ]
+}
